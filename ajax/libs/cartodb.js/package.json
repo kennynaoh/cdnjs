@@ -1,0 +1,31 @@
+{
+  "name": "cartodb.js",
+  "filename": "cartodb.uncompressed.min.js",
+  "version": "3.15.9",
+  "description": "CartoDB javascript library",
+  "keywords": [
+    "cartodb",
+    "Maps",
+    "SQL"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CartoDB/cartodb.js.git"
+  },
+  "homepage": "http://docs.cartodb.com/cartodb-platform/cartodb-js",
+  "author": {
+    "name": "CartoDB",
+    "url": "http://cartodb.com/",
+    "email": "wadus@cartodb.com"
+  },
+  "license": "BSD-3-Clause",
+  "npmName": "cartodb.js",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ]
+}
