@@ -1,0 +1,30 @@
+{
+  "name": "datatables.net-select",
+  "filename": "js/dataTables.select.min.js",
+  "version": "1.2.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:DataTables/Select.git"
+  },
+  "author": "Allan Jardine",
+  "description": "Select adds item selection capabilities to a DataTable",
+  "keywords": [
+    "select",
+    "datatable"
+  ],
+  "homepage": "https://datatables.net/extensions/select/",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">=1.7.0",
+    "datatables": ">=1.10.8"
+  },
+  "npmName": "datatables.net-select",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "js/dataTables.select*"
+      ]
+    }
+  ]
+}
